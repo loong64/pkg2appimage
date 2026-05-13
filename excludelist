@@ -7,6 +7,7 @@
 
 ld-linux.so.2
 ld-linux-x86-64.so.2
+ld-linux-loongarch-lp64d.so.1
 libanl.so.1
 libBrokenLocale.so.1
 libcidn.so.1
